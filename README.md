@@ -26,9 +26,9 @@
 
 ### Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=zenn-scraps)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=y-tsuritani&repo=zenn-scraps)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=SlackChatbot_like_ChatGPT)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=y-tsuritani&repo=SlackChatbot_like_ChatGPT)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 言語情報
 
